@@ -1,4 +1,4 @@
 # EcoSim
-Ecosystem simulation project, ICS3U6
+Ecosystem simulation project
 
 Creates an ecosystem of entities, simulates progression with health and movement, etc.
